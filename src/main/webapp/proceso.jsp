@@ -1,9 +1,10 @@
-<%@page import="daw.tunombre+web.Cliente" %>
+<%@page import="daw.gabrielweb.Cliente"%>
+<%@page import="daw.gabrielweb.Cliente" %>
 
 El contenido del fichero JSP es el siguiente:
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@page import="daw.tunombre+web.Cliente" %>
+<%@page import="daw.gabrielweb.Cliente" %>
 
 <html>
 <head>
