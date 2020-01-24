@@ -38,5 +38,7 @@ Cliente cli;
         
     <% } %> <!-- LLave del else -->
     
+      <p><a href="index.html" style="color: black">Volver</a></p>
+
 </body>
 </html>
